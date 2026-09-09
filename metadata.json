@@ -1,0 +1,6 @@
+{
+  "name": "APK Creator Studio",
+  "description": "Android WebView APK Creator with custom permissions, splash screen, cache modes, ads interval, custom tabs, and GitHub Actions build automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
